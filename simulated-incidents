@@ -1,0 +1,3 @@
+## Simulated SOC Investigations
+
+This repository documents simulated SOC investigations performed in my personal Splunk home lab. Each investigation begins with a realistic scenario, followed by evidence collection, log analysis, and an incident report. These exercises are intended to demonstrate the investigative workflow used by a Tier 1 SOC analyst in a controlled lab environment.
