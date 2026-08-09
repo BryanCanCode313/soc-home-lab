@@ -35,7 +35,7 @@ Termius was then used on the iPhone to establish an SSH connection to the Ubuntu
 
 ## Connection Flow
 
-```text
+```
 iPhone
    |
 Termius
@@ -45,3 +45,13 @@ Tailscale VPN
 Ubuntu VM
    |
 OpenSSH
+```
+
+## Evidence
+
+Screenshots documenting the configuration and verification of the remote-access setup.
+
+- [Tailscale installation on Ubuntu](../screenshots/002-remote-access/01-tailscale-install-ubuntu.png)
+- [Tailscale VPN configuration on iPhone](../screenshots/002-remote-access/02-tailscale-vpn-configuration.png)
+- [Tailscale connected devices](../screenshots/002-remote-access/03-tailscale-connected-devices.png)
+- [Termius Tailscale status verification](../screenshots/002-remote-access/04-termius-tailscale-status.png)
