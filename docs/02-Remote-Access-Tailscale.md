@@ -55,3 +55,4 @@ Screenshots documenting the configuration and verification of the remote-access 
 - [Tailscale VPN configuration on iPhone](../screenshots/002-remote-access/02-tailscale-vpn-configuration.png)
 - [Tailscale connected devices](../screenshots/002-remote-access/03-tailscale-connected-devices.png)
 - [Termius Tailscale status verification](../screenshots/002-remote-access/04-termius-tailscale-status.png)
+- [Successful Termius SSH connection](../screenshots/002-remote-access/05-termius-ssh-success.png)
