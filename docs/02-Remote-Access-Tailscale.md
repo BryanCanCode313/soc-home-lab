@@ -25,7 +25,9 @@ This allowed SSH connectivity to be tested locally, but it was not the preferred
 
 Tailscale was installed on both the Ubuntu virtual machine and the iPhone.
 
-The Ubuntu VM was assigned the Tailscale address:
+The Ubuntu VM was assigned a Tailscale IP address.
+
+The actual address is intentionally omitted from this public repository.
 
 `xxx.xx.xxx.xxx`
 
