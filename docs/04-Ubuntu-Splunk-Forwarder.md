@@ -54,4 +54,13 @@ Apache access logs were configured for forwarding, and SSH authentication teleme
 Local testing confirmed that SSH authentication events were being generated and that the Universal Forwarder recognized the `journald://ssh` input.
 
 Final verification of the forwarded events within Splunk Search is pending due to a temporary Splunk Free license search restriction.
+
+## Evidence
+
+The following screenshots document the Ubuntu Splunk integration:
+
+- [Active Splunk Forwarding](../screenshots/004-ubuntu-splunk/01-active-forward-redacted.jpeg)
+- [TCP 9997 Connectivity](../screenshots/004-ubuntu-splunk/02-tcp-9997-connectivity-redacted.jpeg)
+- [Apache Log Monitoring](../screenshots/004-ubuntu-splunk/03-Apache-monitor-redacted.png)
+- [SSH Journald Input](../screenshots/004-ubuntu-splunk/04-ssh-journald-input-redacted.png)
     
